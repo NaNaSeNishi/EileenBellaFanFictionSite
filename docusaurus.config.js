@@ -5,12 +5,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: '乃贝同人文site',
   tagline: 'A simple fan fiction site for Bella & Eileen',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://NaNaSeNishi.github.io',
+  baseUrl: '/EileenBellaFanFictionSite/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo1.png',
-  organizationName: 'BellaEileenfanfictionSiteProject', // Usually your GitHub org/user name.
+  organizationName: 'NaNaSeNishi', // Usually your GitHub org/user name.
   projectName: 'EileenBellaFanFictionSite', // Usually your repo name.
   themeConfig: {
     navbar: {
