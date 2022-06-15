@@ -6,7 +6,7 @@ module.exports = {
   title: '乃贝同人文site',
   tagline: 'A simple fan fiction site for Bella & Eileen',
   url: 'https://NaNaSeNishi.github.io',
-  baseUrl: '/EileenBellaFanFictionSite/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo1.png',
